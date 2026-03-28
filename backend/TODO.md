@@ -1,0 +1,4 @@
+- [ ] Develop a more robust library/database
+- [ ] Create the embedding system
+- [ ] draft the scenarios
+- [ ] create the database
